@@ -13,6 +13,7 @@ An online platform to look at, share and collect recipes. It is a web applicatio
 - React Router
 - User friendly design
 - Material UI
+- Charts.js
 
 
 
